@@ -5,7 +5,7 @@ The course covers fundamental SQL concepts, including how to retrieve data using
 Additionally, it covers techniques for joining multiple tables, optimizing queries, and understanding relational database structures.
 
 **Course Overview**
-SQL Basics
-More Advanced SQL Queries
-Relational Queries in SQL
-Modifying Databases with SQL
+1. SQL Basics
+2. More Advanced SQL Queries
+3. Relational Queries in SQL
+4. Modifying Databases with SQL
